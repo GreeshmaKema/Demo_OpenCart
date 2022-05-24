@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="17" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-24T13:21:04 IST" name="Suite" finished-at="2022-05-24T13:23:55 IST" duration-ms="171062">
+    <groups>
+    </groups>
+    <test started-at="2022-05-24T13:21:04 IST" name="Test" finished-at="2022-05-24T13:23:55 IST" duration-ms="171062">
+      <class name="com.mohs10.scripts.ContactUs">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.mohs10.scripts.ContactUs@614ca7df]" started-at="2022-05-24T13:21:27 IST" name="beforeClass" finished-at="2022-05-24T13:21:29 IST" duration-ms="1450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.ContactUs@614ca7df]" started-at="2022-05-24T13:21:29 IST" name="methodName" finished-at="2022-05-24T13:21:29 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.ContactUs.ContactUsTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="ContactUsTestCase()[pri:0, instance:com.mohs10.scripts.ContactUs@614ca7df]" started-at="2022-05-24T13:21:29 IST" name="ContactUsTestCase" finished-at="2022-05-24T13:21:46 IST" duration-ms="17446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsTestCase -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.mohs10.scripts.ContactUs@614ca7df]" started-at="2022-05-24T13:21:46 IST" name="afterClass" finished-at="2022-05-24T13:21:46 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mohs10.scripts.ContactUs -->
+      <class name="com.mohs10.scripts.Checkout_scripts">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.mohs10.scripts.Checkout_scripts@611889f4]" started-at="2022-05-24T13:21:04 IST" name="generateReport" finished-at="2022-05-24T13:21:05 IST" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.mohs10.scripts.Checkout_scripts@611889f4]" started-at="2022-05-24T13:21:05 IST" name="beforeClass" finished-at="2022-05-24T13:21:08 IST" duration-ms="2812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.Checkout_scripts@611889f4]" started-at="2022-05-24T13:21:08 IST" name="methodName" finished-at="2022-05-24T13:21:08 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.Checkout_scripts.Checkout_scriptsTestcases() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="Checkout_scriptsTestcases()[pri:0, instance:com.mohs10.scripts.Checkout_scripts@611889f4]" started-at="2022-05-24T13:21:08 IST" name="Checkout_scriptsTestcases" finished-at="2022-05-24T13:21:26 IST" duration-ms="18595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout_scriptsTestcases -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.mohs10.scripts.Checkout_scripts@611889f4]" started-at="2022-05-24T13:21:26 IST" name="afterClass" finished-at="2022-05-24T13:21:27 IST" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mohs10.scripts.Checkout_scripts -->
+      <class name="com.mohs10.scripts.Script_Brand">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.mohs10.scripts.Script_Brand@1af2d44a]" started-at="2022-05-24T13:23:33 IST" name="beforeClass" finished-at="2022-05-24T13:23:35 IST" duration-ms="1830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Script_BrandTestcase()[pri:0, instance:com.mohs10.scripts.Script_Brand@1af2d44a]" started-at="2022-05-24T13:23:35 IST" name="Script_BrandTestcase" finished-at="2022-05-24T13:23:55 IST" duration-ms="20182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_BrandTestcase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.Script_Brand@1af2d44a]" started-at="2022-05-24T13:23:35 IST" name="methodName" finished-at="2022-05-24T13:23:35 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.Script_Brand.Script_BrandTestcase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.mohs10.scripts.Script_Brand@1af2d44a]" started-at="2022-05-24T13:23:55 IST" name="afterClass" finished-at="2022-05-24T13:23:55 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mohs10.scripts.Script_Brand -->
+      <class name="com.mohs10.scripts.HomeTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:21:46 IST" name="beforeClass" finished-at="2022-05-24T13:21:48 IST" duration-ms="1383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:21:48 IST" name="methodName" finished-at="2022-05-24T13:21:48 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.Review_TestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="Review_TestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:21:48 IST" name="Review_TestCase" finished-at="2022-05-24T13:22:02 IST" duration-ms="14286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Review_TestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:02 IST" name="methodName" finished-at="2022-05-24T13:22:02 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.auto_suggestion_TestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="auto_suggestion_TestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:02 IST" name="auto_suggestion_TestCase" finished-at="2022-05-24T13:22:07 IST" duration-ms="5145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auto_suggestion_TestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:07 IST" name="methodName" finished-at="2022-05-24T13:22:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.searchProdTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="searchProdTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:07 IST" name="searchProdTestCase" finished-at="2022-05-24T13:22:15 IST" duration-ms="8124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProdTestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:15 IST" name="methodName" finished-at="2022-05-24T13:22:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.searchTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="searchTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:15 IST" name="searchTestCase" finished-at="2022-05-24T13:22:23 IST" duration-ms="8076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:23 IST" name="methodName" finished-at="2022-05-24T13:22:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.search_AlphaNum_SpclChar_TestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="search_AlphaNum_SpclChar_TestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:23 IST" name="search_AlphaNum_SpclChar_TestCase" finished-at="2022-05-24T13:22:35 IST" duration-ms="11160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_AlphaNum_SpclChar_TestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:35 IST" name="methodName" finished-at="2022-05-24T13:22:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.search_AlphaNumericsTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="search_AlphaNumericsTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:35 IST" name="search_AlphaNumericsTestCase" finished-at="2022-05-24T13:22:45 IST" duration-ms="10544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_AlphaNumericsTestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:45 IST" name="methodName" finished-at="2022-05-24T13:22:45 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.search_NumericsTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="search_NumericsTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:45 IST" name="search_NumericsTestCase" finished-at="2022-05-24T13:22:55 IST" duration-ms="10158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_NumericsTestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:55 IST" name="methodName" finished-at="2022-05-24T13:22:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.search_SingleCharTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="search_SingleCharTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:22:55 IST" name="search_SingleCharTestCase" finished-at="2022-05-24T13:23:06 IST" duration-ms="10359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_SingleCharTestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:23:06 IST" name="methodName" finished-at="2022-05-24T13:23:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.search_SpclCharTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="search_SpclCharTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:23:06 IST" name="search_SpclCharTestCase" finished-at="2022-05-24T13:23:14 IST" duration-ms="8025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_SpclCharTestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:23:14 IST" name="methodName" finished-at="2022-05-24T13:23:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.searchiPhoneProdTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="searchiPhoneProdTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:23:14 IST" name="searchiPhoneProdTestCase" finished-at="2022-05-24T13:23:25 IST" duration-ms="11229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchiPhoneProdTestCase -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:23:25 IST" name="methodName" finished-at="2022-05-24T13:23:25 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.srchTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="srchTestCase()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:23:25 IST" name="srchTestCase" finished-at="2022-05-24T13:23:33 IST" duration-ms="7848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srchTestCase -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.mohs10.scripts.HomeTest@1e04fa0a]" started-at="2022-05-24T13:23:33 IST" name="afterClass" finished-at="2022-05-24T13:23:33 IST" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mohs10.scripts.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
