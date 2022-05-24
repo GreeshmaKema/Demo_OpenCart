@@ -4,6 +4,10 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.mohs10.scripts.HomeTest"/>
+      <class name="com.mohs10.scripts.Script_Brand"/>
+       <class name="com.mohs10.scripts.Checkout_scripts"/>
+      <class name="com.mohs10.scripts.ContactUs"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
